@@ -1,5 +1,6 @@
 # plantosia-YOLO-Darknet
 
+<<<<<<< HEAD
 
 **Plantosia**
 
@@ -24,3 +25,8 @@ Plantosia is a project aimed to increase awareness of plantology for kids from a
 - Darknet 53
 
 
+=======
+## t
+### t
+#### t
+>>>>>>> fd4b98adbb3ff260043bcaa6d68ca1e3c5cce8f7
